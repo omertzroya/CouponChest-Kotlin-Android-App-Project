@@ -1,4 +1,4 @@
-Based on the code you provided, here's a README file tailored for your project:
+
 
 # CouponChest - Android App 📱💰
 
