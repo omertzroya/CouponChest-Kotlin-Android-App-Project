@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ארגז הקופונים</string>
+    <string name="hello_blank_fragment">"שלום "</string>
+    <string name="enter_your_promo_code">"הכנס את הקופון שלך "</string>
+    <string name="enter_promo_code_title">הכנס כותרת קופון</string>
+    <string name="enter_number_promo_code">הכנס קוד קופון</string>
+    <string name="add_promo_code_from_image">לחץ כאן להשתמש ב-ML לזיהוי הקופון אוטומטית</string>
+    <string name="pick_image">בחר תמונה</string>
+    <string name="finish">סיום</string>
+    <string name="find_whare_to_use_the_promo">לחץ כאן לחפש במפה איפה לממש את הקופון</string>
+    <string name="title">כותרת</string>
+    <string name="description">תיאור</string>
+    <string name="edit_image">ערוך תמונה</string>
+    <string name="save">שמירה</string>
+    <string name="email">מייל</string>
+    <string name="password">סיסמא</string>
+    <string name="login">התחברות</string>
+    <string name="you_don_t_have_an_account_register">אין לך חשבון? הירשם עכשיו</string>
+    <string name="register">הרשמה</string>
+    <string name="main_item_title">כותרת קופון</string>
+    <string name="item_detailed_description">תיאור קופון</string>
+    <string name="long_press_to_edit_and_swipe_to_delete">לחיצה ארוכה כדי לערוך והחלקה למחיקה</string>
+    <string name="confirm_delete">אישור מחיקה</string>
+    <string name="are_you_sure_you_want_to_delete_this_item">האם אתה בטוח שברצונך למחוק את הפריט ?</string>
+    <string name="yes">כן</string>
+    <string name="no">לא</string>
+    <string name="are_you_sure_you_want_to_delete_all_items">האם אתה בטוח שברצונך למחוק את כל הפריטים?</string>
+    <string name="items_deleted">פריטים נמחקו</string>
+    <string name="you_are_here">אתה נמצא פה</string>
+    <string name="location_permission_is_required_to_show_your_position_on_the_map">דרושה הרשאה למיקום</string>
+    <string name="please_wait_getting_location">בבקשה חכה .. מקבל מיקום </string>
+    <string name="unsupported_promo_code">אין תמיכה בקופון בסוג קופון זה</string>
+    <string name="your_promo_code_is_not_supported">הקופון שהוזן אינו נתמך עדיין</string>
+    <string name="ok">המשך</string>
+    <string name="plese_insert_a_valid_promo_code_supported_promo_code_formats_20_digit_numeric_code_e_g_12345678901234567890_8_character_alphanumeric_code_e_g_abcd1234_10_character_alphanumeric_code_e_g_abcd123456_15_character_alphanumeric_code_e_g_abcdefghijklmno_uuid_like_code_e_g_abcd1234_ab12_cd34_ef56_1234567890ab">אנא הכנס קוד הטבה חוקי. פורמטים נתמכים של קוד קידום מכירות: - קוד מספרי בן 20 ספרות (לדוגמה, 12345678901234567890) - קוד אלפאנומרי בן 8 תווים (לדוגמה, ABCD1234) - קוד אלפאנומרי בן 10 תווים (למשל, AB.5CD12, קוד אלפאנומרי) CDEFGHIJKLMNO) - קוד דמוי UUID (לדוגמה, ABCD1234-AB12-CD34-EF56-1234567890AB)</string>
+    <string name="item_updated">פריט עודכן</string>
+    <string name="title_and_description_cannot_be_empty">הכתורת והתיאור לא יכולים להיות ריקים</string>
+    <string name="plus_sign">הוספה</string>
+    <string name="no_address_found">לא נמצאה כתובת</string>
+</resources>

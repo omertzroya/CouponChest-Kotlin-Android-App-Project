@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.CouponChest" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary color (Action Bar color) -->
+        <item name="colorPrimary">@color/blue</item>
+        <!-- Secondary color -->
+        <item name="colorPrimaryDark">@color/blue</item>
+        <!-- Customize other theme attributes as needed -->
+    </style>
+
+
+    <style name="Theme.CouponChest" parent="Base.Theme.CouponChest">
+        <item name="colorPrimary">@color/blue</item>
+    </style>
+</resources>

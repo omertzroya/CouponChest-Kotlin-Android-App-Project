@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">CouponChest</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_your_promo_code">Enter Your Promo Code</string>
+    <string name="enter_promo_code_title">Enter Promo Code Title</string>
+    <string name="enter_number_promo_code">Enter number Promo Code</string>
+    <string name="add_promo_code_from_image">Use ML to Add Promo Code from Image</string>
+    <string name="pick_image">Pick Image</string>
+    <string name="finish">Finish</string>
+    <string name="find_whare_to_use_the_promo">find whare to use the promo</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="edit_image">edit image</string>
+    <string name="save">Save</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">login</string>
+    <string name="you_don_t_have_an_account_register">you don\'t have an account? register</string>
+    <string name="register">register</string>
+    <string name="main_item_title">main item title</string>
+    <string name="item_detailed_description">item detailed description</string>
+    <string name="long_press_to_edit_and_swipe_to_delete">Long Press to Edit and Swipe to delete</string>
+    <string name="confirm_delete">Confirm Delete</string>
+    <string name="are_you_sure_you_want_to_delete_this_item">Are you sure you want to delete this item?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="are_you_sure_you_want_to_delete_all_items">Are you sure you want to delete all items?</string>
+    <string name="items_deleted">Items deleted</string>
+    <string name="you_are_here">You are here</string>
+    <string name="location_permission_is_required_to_show_your_position_on_the_map">Location permission is required to show your position on the map.</string>
+    <string name="please_wait_getting_location">Please wait, getting location...</string>
+    <string name="unsupported_promo_code">Unsupported Promo Code</string>
+    <string name="your_promo_code_is_not_supported">Your promo code is not supported.\n\n%1$s</string>
+    <string name="ok">OK</string>
+    <string name="plese_insert_a_valid_promo_code_supported_promo_code_formats_20_digit_numeric_code_e_g_12345678901234567890_8_character_alphanumeric_code_e_g_abcd1234_10_character_alphanumeric_code_e_g_abcd123456_15_character_alphanumeric_code_e_g_abcdefghijklmno_uuid_like_code_e_g_abcd1234_ab12_cd34_ef56_1234567890ab">"                 Plese insert a valid promo code. Supported promo code formats:                 - 20-digit numeric code (e.g., 12345678901234567890)                  - 8-character alphanumeric code (e.g., ABCD1234)                 - 10-character alphanumeric code (e.g., ABCD123456)                 - 15-character alphanumeric code (e.g., ABCDEFGHIJKLMNO)                 - UUID-like code (e.g., ABCD1234-AB12-CD34-EF56-1234567890AB)             "</string>
+    <string name="item_updated">Item updated</string>
+    <string name="title_and_description_cannot_be_empty">Title and description cannot be empty</string>
+    <string name="plus_sign">plus sign</string>
+    <string name="no_address_found">No address found</string>
+</resources>
